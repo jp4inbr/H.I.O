@@ -144,14 +144,14 @@ Restrição de compatibilidade: a interface funciona nos navegadores Chrome e Ed
 
 ## **6. Premissas do MVP**
 
-| Item                                | Decisão                                                                                                 |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Frontend                            | SPA web (React)                                                                                         |
-| Backend                             | API REST em Python (FastAPI), que executa as rotinas já existentes                                      |
-| Banco de dados                      | Relacional (SQLite no MVP, com migração futura para PostgreSQL)                                         |
-| IA                                  | API externa de LLM, consumida só pelo backend                                                           |
-| Rotinas do MVP                      | Conferência de Fichas, Verificação de Posição de Coleta e Sistema de Agendamentos (detalhadas em 4.2.1) |
-| Rotina de referência dos wireframes | Conferência de Fichas                                                                                   |
+| Item                                | Decisão                                                                            |
+| ----------------------------------- | ---------------------------------------------------------------------------------- |
+| Frontend                            | SPA web (React)                                                                    |
+| Backend                             | API REST em Python (FastAPI), que executa as rotinas já existentes                 |
+| Banco de dados                      | Relacional (SQLite no MVP, com migração futura para PostgreSQL)                    |
+| IA                                  | API externa de LLM, consumida só pelo backend                                      |
+| Rotinas do MVP                      | Conferência de Fichas, Verificação de Posição de Coleta e Sistema de Agendamentos  |
+| Rotina de referência dos wireframes | Conferência de Fichas                                                              |
 
 ## 7. Justificativa da Arquitetura (Web vs. Mobile)
 
