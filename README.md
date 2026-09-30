@@ -96,4 +96,4 @@ Para garantir escalabilidade, o repositório adota práticas sólidas de engenha
 - Luís Carneiro: Planejamento e Cronograma (Trello)
 - Matheus Damasceno: Product Vision Board
 - Matheus Morgado & Thales: Engenharia de Requisitos
-- Yohanan Aguilar: Gestão de Qualidade de Código (QA), Repositório e Segurança DevSecOps
+- Yohanan Aguilar: Gestão de Qualidade de Código (QA)
