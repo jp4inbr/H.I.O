@@ -1,4 +1,4 @@
-# ⚙️ H.I.O - Hub de Inteligência Operacional
+# H.I.O - Hub de Inteligência Operacional
 
 > **Status do Projeto:** Em Desenvolvimento (Fase: RT02 - Engenharia de Requisitos, Arquitetura e Prototipagem)
 
